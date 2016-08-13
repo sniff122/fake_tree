@@ -1,2 +1,2 @@
 # fake_tree
-this is a program you can put on a vitual machine to troll some scammers who use the tree command to "scan the system". it will drive them insane. to install, open the batch file as admin and then open the install_on_vm.exe as admin. and make sure that the tree.exe is in c:\.
+this is a program you can put on a vitual machine to troll some scammers who use the tree command to "scan the system". it will drive them insane. to install, MAKE SURE YUO DO THIS ON THE VM!!!, have the zip extracted into a folder and you should see the fake tree installer.exe. run that, it will print things out to the console. make sure the tree.exe is in the same folder as the installer!!. it should run as admin automaticaly.
